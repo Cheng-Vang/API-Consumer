@@ -1,0 +1,9 @@
+# Exclusions
+.venv/
+configs/credentials.ini
+logs/*
+output/*
+
+# Inclusions
+!logs/.gitkeep
+!output/.gitkeep
